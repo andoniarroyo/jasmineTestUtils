@@ -10,9 +10,7 @@ exposed features. (under the tests/specs folder)
 To know more about me:  
 
 twitter:   [@andoniarroyo](https://twitter.com/andoniarroyo)
-
 web:       [http://www.andoniarroyo.com/](http://www.andoniarroyo.com)
-
 linkedin:  [https://www.linkedin.com/in/andoniarroyo](https://www.linkedin.com/in/andoniarroyo)
 
 Please if you are using this service, tell me about it.  And obviously if you have any comment or question
