@@ -3,7 +3,7 @@ describe('The jasmine test utils service', function () {
 
     var _jasmineTestUtilsService;
 
-    beforeEach(module('andoniarroyo.testing'));
+    beforeEach(module('testing'));
 
     beforeEach(inject(function (jasmineTestUtilsService) {
         _jasmineTestUtilsService = jasmineTestUtilsService;
@@ -121,7 +121,7 @@ describe('The jasmine test utils service', function () {
                 _jasmineTestUtilsService.resolveAsyncMethods();
 
                 // Assert
-                expect(dummyObject.method).toHaveBeenCalled();
+                expect(dummyAsyncObject.asyncMethod).toHaveBeenCalled();
                 expect(returnedValue).toEqual(valueToReturn);
             });
 
